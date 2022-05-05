@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Pirlz
-- 👀 I’m interested in urban planning and tourism
+- 👀 I’m interested in data analysis, urban planning and tourism
 - 🌱 I’m currently learning html, css and javascript
-- 💞️ I’m looking to collaborate on bringing tech to urban planning
+- 💞️ I’m looking to collaborate on bringing tech to urban planning and having a fusion of data analysis with urban planning related topics such as climate change, transportation, housing, waste management etc.
 - 📫 You can reach me on twitter @ademolaisaac_
 
 <!---
